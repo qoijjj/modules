@@ -29,56 +29,56 @@
         "docker-daemon": {
             "": [
                 {
-                    "type": "insecureAcceptAnything"
+                    "type": "reject"
                 }
             ]
         },
         "atomic": {
             "": [
                 {
-                    "type": "insecureAcceptAnything"
+                    "type": "reject"
                 }
             ]
         },
         "containers-storage": {
             "": [
                 {
-                    "type": "insecureAcceptAnything"
+                    "type": "reject"
                 }
             ]
         },
         "dir": {
             "": [
                 {
-                    "type": "insecureAcceptAnything"
+                    "type": "reject"
                 }
             ]
         },
         "oci": {
             "": [
                 {
-                    "type": "insecureAcceptAnything"
+                    "type": "reject"
                 }
             ]
         },
         "oci-archive": {
             "": [
                 {
-                    "type": "insecureAcceptAnything"
+                    "type": "reject"
                 }
             ]
         },
         "docker-archive": {
             "": [
                 {
-                    "type": "insecureAcceptAnything"
+                    "type": "reject"
                 }
             ]
         },
         "tarball": {
             "": [
                 {
-                    "type": "insecureAcceptAnything"
+                    "type": "reject"
                 }
             ]
         }
